@@ -1,0 +1,30 @@
+.needs-validation{
+  width: 100%;
+}
+
+.title{
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+}
+
+.text{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+}
+
+.tel{
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: blue;
+  display: block;
+  text-align: center;
+}
+
+
